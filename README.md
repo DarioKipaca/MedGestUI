@@ -1,11 +1,14 @@
 <h1> UI MODERNO MEDGEST C# WINFORMS</h1>
 
-<p>Layout moderno desenvolvido utilizando C# WinForms Application para desafiar o preconceito de que WinForms não é capaz de criar designs bonitos, no estilo da web. Este projeto prova que é possível alcançar layouts atrativos e funcionais, mesmo dentro do ambiente tradicional do Windows Forms. Vamos quebrar esses estereótipos juntos!</p>
+<p text-align: justify;>Layout moderno desenvolvido utilizando C# WinForms Application para desafiar o preconceito de que WinForms não é capaz de criar designs bonitos, no estilo da web. Este projeto prova que é possível alcançar layouts atrativos e funcionais, mesmo dentro do ambiente tradicional do Windows Forms. Vamos quebrar esses estereótipos juntos!</p>
 
 <br>
 <img src="https://github.com/DarioKipaca/MedGestUI/assets/157759202/8ba5a274-d432-4f2e-a19e-3134b55ffeea.gif"/>
 <br>
-
+<br>
+ <a href="https://github.com/DarioKipaca/MedGestUI/files/15060471/Icones.MedSoft.zip"> BAIXAR OS ÍCONES UTILIZADOS </a>
+<br>
+<br>
 <code>
 // Codigo para alternar de checks no botões do menu
 
